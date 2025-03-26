@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=clickGarden
+comment0.text=\r\n\ Clickgarden\ here\ object\ in\ arrays\r\n\ create\ a\ garden\ with\ each\ object\ in\ an\ array\r\n\ click\ on\ the\ flower\ to\ make\ it\ grow\r\n\r\n\ @fleur\r\n\ @26/3\r\n
+comment1.params=
+comment1.target=clickGarden()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ClickGarden\r\n
+comment2.params=
+comment2.target=void\ randomGrow()
+comment2.text=\r\n\ random\ grow\ the\ flowers\ in\ the\ array\r\n
+comment3.params=action\ x\ y
+comment3.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment3.text=\r\n\ Select\ obj\ based\ on\ where\ the\ user\ clicks\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
